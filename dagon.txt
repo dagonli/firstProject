@@ -7,3 +7,6 @@ Haha ,I am coming again !
 modify from linux !
 
 modify after add but not push.
+
+
+commit skip add.
