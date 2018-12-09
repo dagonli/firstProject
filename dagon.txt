@@ -1,12 +1,12 @@
 GGhaha ,this is my first txt !
 
 
-Haha ,I am coming again !
-
-
+Haha ,I am coming agai
 modify from linux !
 
 modify after add but not push.
 
 
 commit skip add.
+
+update from windows.
