@@ -1,9 +1,7 @@
 GGhaha ,this is my first txt !
 
 
-Haha ,I am coming again !
-
-
+Haha ,I am coming agai
 modify from linux !
 
 modify after add but not push.
@@ -11,4 +9,5 @@ modify after add but not push.
 
 commit skip add.
 
-update from linux.
+update from windows.
+>>>>>>> 96206f35dacc92ce3d593f737d511578e2ef32e6
